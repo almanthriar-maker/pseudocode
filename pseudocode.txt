@@ -1,0 +1,5 @@
+1. What is Pseudocode?
+
+Pseudocode is an informal way of writing an algorithm using simple English words mixed with basic programming-like structures.
+It is not a real programming language, so it does not follow strict syntax rules.
+Its main purpose is to describe the logic of a program in a way that is easy to understand by humans.
